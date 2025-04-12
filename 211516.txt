@@ -27,3 +27,9 @@
 24.git add logs.txt: we add the logs.txt
 25.git commit -m "Final commit": commit the changes we made
 26. git push: we push the changes to the remote repo
+
+
+27.git clone what we forked.
+28.git add 211516.txt
+29.git commit -m "Final commit"
+30.git push
