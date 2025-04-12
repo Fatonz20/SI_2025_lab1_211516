@@ -132,6 +132,14 @@ class TaskManager {
     // 8. Mark a task as completed by name
     public void markTaskCompleted(String name) {
         // TODO: Implement completion logic
+        for (Task task : tasks) {
+            if (task.getName().equals(name)) {
+                task.complete();
+                System.out.println(task + " marked as completed");
+                return;
+            }
+        }
+        System.out.println("Task doesn't exist");
     }
 
     // 9. Mark all tasks in a category as completed
@@ -152,6 +160,7 @@ public class SI2025Lab1Main {
             System.out.println(task);
         }
         System.out.println("Task count per category: " + manager.countTasksPerCategory());
+        manager.markTaskCompleted("Buy groceries");
 
         manager.printTasks();
     }
