@@ -92,6 +92,23 @@ class TaskManager {
     // 6. Find the highest-priority unfinished task
     public List<Task> getMostUrgentTasks() {
         // TODO: Implement logic to find most urgent tasks
+        List<Task> urgentTasks = new ArrayList<>();
+        Priority highestPriority = null;
+        for(Task task : tasks) {
+            if (!task.isCompleted()) {
+                if (highestPriority == null || task.getPriority().ordinal() > highestPriority.ordinal()) {
+                    highestPriority = task.getPriority();
+                }
+            }
+        }
+
+        if (highestPriority != null) {
+            for (Task task : tasks) {
+                if (!task.isCompleted() && task.getPriority() == highestPriority) {
+                    urgentTasks.add(task);
+                }
+            }
+        }
         return new ArrayList<>();
     }
 
@@ -120,6 +137,9 @@ public class SI2025Lab1Main {
         manager.addTask("Buy groceries", Priority.LOW, "Personal");
 
         // MISSING: Calls to the new methods that will be implemented
+        for(Task task : manager.getMostUrgentTasks()) {
+            System.out.println(task);
+        }
 
         manager.printTasks();
     }
