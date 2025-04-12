@@ -1,0 +1,29 @@
+1.git checkout 6-find-the-highest-priority-unfinished-task: We do this to change the HEAD to the different branch to work 
+2.git add SI2025Lab1Main.java: this adds the code 
+3.git commit -m "implement findTheHighestPriorityUnfinishedTask" - we commit the changes we made to the code
+4.git push origin: we push our changes to the remote repo 
+5.git checkout master: change HEAD to master branch
+6.git merge 6-find-the-highest-priority-unfinished-task: we do this to merge the changes we made to the code into the master branch 
+7.git pull origin master: this pulls the changes we made to the master branch in remote repo to the local repo
+
+8.git checkout 7-count-tasks-per-category: change HEAD to different branch
+9.git add SI2025Lab1Main.java: this adds the code
+10.git commit -m "implement countTasksPerCategory" - we commit the changes we made to the code
+11.git push origin: we push our changes to the remote repo 
+12.When we try to do a merge after pull request we get a conflict because we wrote different things in the same line
+13.So we manually change the code from the code editor by acceping both changes 
+14.And we merge the 7-count-tasks-per-category into the master branch
+15.git pull origin master: this pulls the changes we made to the master branch in remote repo to the local repo after we resolved the conflict
+
+16.git checkout 8-mark-a-task-as-completed-by-name: change HEAD to different branch
+17.git add SI2025Lab1Main.java: to add the code 
+18.git commit -m "Implement markTaskCompletedByName": we commit the changes we made to the code
+19.git push origin : we push the changes to remote repo 
+20.We get a conflict after we PR and try to merge
+21.We manually resolve the conflict with code editor and we add all of the lines we changed
+22.git merge 8-mark-a-task-as-completed-by-name
+23.git push origin: we push the changes we made to the remote repo
+
+24.git add logs.txt: we add the logs.txt
+25.git commit -m "Final commit": commit the changes we made
+26. git push: we push the changes to the remote repo
