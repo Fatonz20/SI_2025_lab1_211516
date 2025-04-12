@@ -1,0 +1,461 @@
+PS C:\Users\faton\OneDrive\Desktop\SI_2025_lab1_211516> git log --oneline --graph --all
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+:...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfi:...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+(END)...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+(END)...skipping...
+*   22dd960 (HEAD -> master, origin/master, origin/HEAD) Merge branch '8-mark-a-task-as-completed-by-name'
+|\
+| * 85a5e0f (origin/8-mark-a-task-as-completed-by-name, 8-mark-a-task-as-completed-by-name) Implement markTaskCompletedByName
+* |   7d6e324 Merge branch '7-count-tasks-per-category'
+|\ \
+| * | b5a6e17 (origin/7-count-tasks-per-category, 7-count-tasks-per-category) implement countTasksPerCatgory
+| |/
+* |   b696215 Merge pull request #10 from Fatonz20/6-find-the-highest-priority-unfinished-task
+|\ \
+| |/
+|/|
+| * 3f8d14f (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) implement findTheHighestPriorityUnfinishedTask
+| * ecd1ed7 implement findTheHighestPriorityUnfinishedTask
+|/
+* 700bb9a Add starter code
+* 598502c Initial commit
