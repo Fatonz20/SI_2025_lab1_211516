@@ -109,7 +109,7 @@ class TaskManager {
                 }
             }
         }
-        return new ArrayList<>();
+        return urgentTasks;
     }
 
     // 7. Count tasks per category
